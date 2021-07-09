@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -26,9 +26,9 @@ address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  postcode: '50933'
+  country: Germany
+  country_code: DE
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
@@ -45,7 +45,7 @@ contact_links:
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'skype:h.a.bruno'
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
