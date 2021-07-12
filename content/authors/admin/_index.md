@@ -19,7 +19,9 @@ bio: My research interests includes marketing effectiveness, pricing, digital ad
 interests:
 - Pricing
 - Bayesian Statistics
-- Causal effect
+- Causal effects
+- Gamification
+
 
 # Education to show in About widget
 education:
