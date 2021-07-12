@@ -36,7 +36,6 @@ education:
     institution: Universidad de Buenos Aires
     year: 2000
 
-
 # Social / Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
