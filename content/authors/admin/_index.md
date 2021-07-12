@@ -25,7 +25,7 @@ interests:
 
 # Education to show in About widget
 education:
-  courses
+  courses:
   - course: PhD in Marketing
     institution: London Business School
     year: 2007
