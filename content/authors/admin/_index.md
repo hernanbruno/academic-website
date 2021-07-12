@@ -26,14 +26,14 @@ interests:
 # Education to show in About widget
 education:
 - PhD in Marketing
-  institution: London Business School
-  year: 2007
+#  institution: London Business School
+#  year: 2007
 - Master in Research
-  institution: London Business School
-  year: 2004
+#  institution: London Business School
+#  year: 2004
 - Chemistry Licenciatura
-  institution: Universidad de Buenos Aires
-  year: 2000
+#  institution: Universidad de Buenos Aires
+#  year: 2000
 
 # Social / Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
