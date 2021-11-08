@@ -37,6 +37,7 @@ experience:
     location: Fontainebleau, France
     date_start: '2008-08-01'
     date_end: '2015-07-31'
+    
 
   - title: Assistant Professor of Marketing
     company: Erasmus School of Economics
