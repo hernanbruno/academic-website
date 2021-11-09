@@ -25,7 +25,7 @@ experience:
   - title: Professor of Marketing and Digital Environment
     company: University of Cologne
     company_url: ''
-    company_logo: SiegelUniKoeln.svg
+    company_logo: SiegelUniKoeln
     location: Cologne, Germany
     date_start: '2015-08-01'
     date_end: ''
