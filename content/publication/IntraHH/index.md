@@ -10,9 +10,9 @@ authors:
 - Pradeep K. Chintagunta
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
 date: "2008-07-01T00:00:00Z"
 doi: ""
@@ -30,10 +30,10 @@ publication_types: ["2"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: We develop a hierarchical choice model to account for the choice utility het- erogeneity of individual shoppers that belong to the same household. Our model allows us to measure how much variability in purchase behavior exists among individuals in a household, and to compare this to the variability that exists across households. Because of the presence of multiple shoppers from the same household, we also extend the concept of household-level state dependence to consider state dependence at the individual level. We apply our model to five different grocery categories. We find that the intrahousehold heterogeneity in estimated brand intercepts and (to a lesser extent) price sensitivities is about 20%–30% of the interhousehold heterogeneity in these parameters. However, with promotion sensitivities, we find intrahousehold heterogeneity, in most cases, to be as large as interhousehold heterogeneity. Our state dependence results show that past brands pur- chased by an individual have a much stronger influence on subsequent purchases than those purchased by anyone in the household. We use our estimated utility parameters to compare the expected profitability of promotions targeted at the individual rather than at the household and find substantial (more than 50%) improvements in the incremental revenue of supermarket promotions.
+abstract: We develop a hierarchical choice model to account for the choice utility heterogeneity of individual shoppers that belong to the same household. Our model allows us to measure how much variability in purchase behavior exists among individuals in a household, and to compare this to the variability that exists across households. Because of the presence of multiple shoppers from the same household, we also extend the concept of household-level state dependence to consider state dependence at the individual level. We apply our model to five different grocery categories. We find that the intrahousehold heterogeneity in estimated brand intercepts and (to a lesser extent) price sensitivities is about 20%–30% of the interhousehold heterogeneity in these parameters. However, with promotion sensitivities, we find intrahousehold heterogeneity, in most cases, to be as large as interhousehold heterogeneity. Our state dependence results show that past brands pur- chased by an individual have a much stronger influence on subsequent purchases than those purchased by anyone in the household. We use our estimated utility parameters to compare the expected profitability of promotions targeted at the individual rather than at the household and find substantial (more than 50%) improvements in the incremental revenue of supermarket promotions.
 
-# Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+ Summary. An optional shortened abstract.
+summary: A hierarchical choice model that accounts for intra-household heterogeneity shows a novel way to target price promotions
 
 tags: []
 
