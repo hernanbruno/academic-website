@@ -1,13 +1,16 @@
 ---
-title: "Targeting Mr. or Mrs. Smith: Modeling and leveraging intrahousehold heterogeneity in brand choice behavior"
+title: "Brand Positioning Based on Brand Image–Country Image Fit"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Javier Cebollada
-- Pradeep K. Chintagunta
+- Kristina Klein1
+- Franziska Völckner
+- Hernán A. Bruno
+- Henrik Sattler
+- Pascal Bruno
 
 # Author notes (optional)
 #author_notes:
@@ -18,7 +21,7 @@ date: "2018-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,14 +33,14 @@ publication_types: ["2"]
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: We develop a hierarchical choice model to account for the choice utility heterogeneity of individual shoppers that belong to the same household. Our model allows us to measure how much variability in purchase behavior exists among individuals in a household, and to compare this to the variability that exists across households. Because of the presence of multiple shoppers from the same household, we also extend the concept of household-level state dependence to consider state dependence at the individual level. We apply our model to five different grocery categories. We find that the intrahousehold heterogeneity in estimated brand intercepts and (to a lesser extent) price sensitivities is about 20%–30% of the interhousehold heterogeneity in these parameters. However, with promotion sensitivities, we find intrahousehold heterogeneity, in most cases, to be as large as interhousehold heterogeneity. Our state dependence results show that past brands pur- chased by an individual have a much stronger influence on subsequent purchases than those purchased by anyone in the household. We use our estimated utility parameters to compare the expected profitability of promotions targeted at the individual rather than at the household and find substantial (more than 50%) improvements in the incremental revenue of supermarket promotions.
+abstract: This article proposes that managers may use local consumer culture (LCC), or the culture of one’s home country, in their brand-building activities by adapting the brand’s positioning to the country image the brand targets. It introduces the concept of brand image–country image (BICI) fit, which measures the extent to which consumers in a specific country perceive a brand image as being congruent with their home country’s image. Using more than 350,000 brand-respondent observations across three countries, we develop and empirically illustrate a multi-attribute methodology for operationalizing BICI fit and provide robust evidence that BICI fit is positively associated with consumers’ brand evaluations. A large number of validity and robustness tests supports the proposed BICI fit metric and the findings derived from it. For example, we find that age, education, gender (female), and need for structure enhance the BICI fit effect, while materialism diminishes it. Furthermore, BICI fit matters more in categories that are closely tied to a local cultural context or that are characterized by high purchase risk. Given its multi-attribute nature, the proposed BICI fit metric identifies concrete image attributes and thereby provides managers an effective way to develop or revise LCC positioning plans for their brands.
+
 
 # Summary. An optional shortened abstract.
-summary: A hierarchical choice model that accounts for intra-household heterogeneity shows a novel way to target price promotions
+summary: Brands that match the national brand of a respondent get rated higher
 
 tags:
-- Choice Model
-- intra-household
+- branding
 
 # Display this page in the Featured widget?
 featured: false
