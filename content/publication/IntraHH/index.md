@@ -35,7 +35,9 @@ abstract: We develop a hierarchical choice model to account for the choice utili
 # Summary. An optional shortened abstract.
 summary: A hierarchical choice model that accounts for intra-household heterogeneity shows a novel way to target price promotions
 
-tags: []
+tags:
+- Choice Model
+- intra-household
 
 # Display this page in the Featured widget?
 featured: false

@@ -36,7 +36,9 @@ abstract: he authors study the role of reference price in a setting in which bot
 # Summary. An optional shortened abstract.
 summary: Reference prices exist in B2B and influence quantity and prices
 
-tags: [online advertising]
+tags:
+- Reference Price
+- B2B
 
 # Display this page in the Featured widget?
 featured: false
