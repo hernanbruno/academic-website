@@ -12,7 +12,7 @@ main:
     weight: 40
   - name: Projects
     url: '#projects'
-    weight: 20
+    weight: 50
   - name: Talks
     url: '#talks'
     weight: 40
