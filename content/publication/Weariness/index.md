@@ -30,7 +30,7 @@ publication_types: ["2"]
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: The global importance of online advertising calls for a detailed understanding of consumer-specific responses to online ad repetitions. A key concern for advertisers is not only whether some consumers display degrees of “wearout” but also whether they can surpass a point at which additional exposures have a negative marginal effect: “weariness.” The authors examine a large- scale advertising campaign aimed at driving viewers to a target website, which comprises more than 12,000 users across over 400 websites. These data are analyzed using a flexible discrete mixture specification that accommodates different response shapes over ad stock and timing and parcels ad viewers into response classes based on their internet usage metrics. The resulting classes display varying degrees of wearout, with one subgroup, accounting for about 24% of the sample, evincing weariness. The model also estimates differential publisher effectiveness, with the most effective publisher being nine times more effective than the one 26 places down. The authors demonstrate that the finding of weariness is robust to all the model’s main components, with one key exception: heterogeneity in users’ ad response. Analysis further suggests that an appropriate “profiling and capping” strategy can improve ad deployment by as much as 15% overall for these data.
+abstract: Test Abstract
 
 # Summary. An optional shortened abstract.
 summary: We show evidence from online markets that too many advertising exposures can lead to negative effects, but only for a subgroup of users

@@ -30,7 +30,7 @@ publication_types: ["2"]
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract:Test abstract
+abstract: Test abstract
 
 # Summary. An optional shortened abstract.
 summary: Reference prices exist in B2B and influence quantity and prices
