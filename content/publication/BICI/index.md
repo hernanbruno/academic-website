@@ -2,12 +2,11 @@
 title: "Brand Positioning Based on Brand Image–Country Image Fit"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+
 authors:
 - admin
-- Kristina Klein1
-- Franziska Völckner
+- Kristina Klein
+- Franziska Voelckner
 - Hernán A. Bruno
 - Henrik Sattler
 - Pascal Bruno
@@ -21,7 +20,7 @@ date: "2018-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-01T00:00:00Z"
+#publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -40,7 +39,7 @@ abstract: This article proposes that managers may use local consumer culture (LC
 summary: Brands that match the national brand of a respondent get rated higher
 
 tags:
-- branding
+- Branding
 
 # Display this page in the Featured widget?
 featured: false
