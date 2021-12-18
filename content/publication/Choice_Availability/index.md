@@ -26,11 +26,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Wowchemy Conference*
-# publication_short: In *ICW*
+ publication: In *Wowchemy Conference*
+ publication_short: In *ICW*
 
 abstract: This paper develops a model that extends the traditional aggregate discrete-choice-based demand model (e.g. Berry et al. 1995) to account for varying levels of product availability. In cases where not all products are available at every consumer shopping trip, the observed market share is a convolution of two factors: consumer preferences and the availability of the product in stores. Failing to account for the varying degree of avail- ability would produce incorrect estimates of the demand parameters. The proposed model uses information on aggregate availability to simulate the potential assortments that consumers may face in a given shopping trip. The model parameters are estimated by simulating potential product assortment vectors by drawing multivariate Bernoulli vectors consistent with the observed aggregate level of availability. The model is applied to the UK chocolate confectionery market, focusing on the convenience store channel. We compare the parameter estimates to those obtained from not accounting for varying availability and analyze some of the substantive implications.
-
 
 # Summary. An optional shortened abstract.
 summary: Not all products are available in every store and failure to control for this in models with market data can lead to biased inferences.
