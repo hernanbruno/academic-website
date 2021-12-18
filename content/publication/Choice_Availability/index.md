@@ -35,7 +35,8 @@ abstract: This paper develops a model that extends the traditional aggregate dis
 # Summary. An optional shortened abstract.
 summary: Not all products are available in every store and failure to control for this in models with market data can lead to biased inferences.
 
-tags: [structural modeling]
+tags:
+- Structural Modeling
 
 # Display this page in the Featured widget?
 featured: false
