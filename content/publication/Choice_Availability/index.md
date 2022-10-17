@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://github.com/hernanbruno/academic-website/blob/master/content/publication/Choice_Availability/Bruno%20Vilcassim%202008.pdf
+url_pdf: 'uploads/Bruno Vilcassim 2008.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
