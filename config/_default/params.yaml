@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'Minimal'
 font_size: M
 
 # SEO
@@ -30,8 +30,8 @@ address:
   country: Germany
   country_code: DE
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '50.9281'
+  longitude: '6.9283'
 directions: Office located at Sibille-Hartmann-Straße 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'

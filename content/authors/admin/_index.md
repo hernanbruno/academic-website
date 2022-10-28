@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-Hernán A. Bruno is a Professor of Marketing and Digital Environment at the University of Cologne. He uses quantitative methods to study marketing phenomena related to pricing, customer behavior and marketing effectiveness. 
+I am a Professor of Marketing at the University of Cologne. I lead the chair of _Marketing and Digital Environment_ and you can access my profile in the university website [here](https://marketing.uni-koeln.de/en/team/hernan-a-bruno). I use quantitative methods to study marketing phenomena related to pricing, customer behavior and marketing effectiveness. I also teach marketing strategy at the executive and MBA level, digital marketing at the executive and masters level, and data analytics at any level. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_2020.pdf" "newtab" >}}CV{{< /staticref >}}.
