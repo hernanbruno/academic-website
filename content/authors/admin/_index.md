@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hernan A. Bruno
+title: Hernán A. Bruno
 
 # Is this the primary user of the site?
 superuser: true
