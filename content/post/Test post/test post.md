@@ -1,9 +1,9 @@
 ---
 title: What is feature saturation?
-subtitle: If we look at the history of semiconductors and digital cameras, we can get a glimpsse of what will happen to electric cars
+subtitle: If we look at the history of semiconductors and digital cameras, we can get a glimpse of how competition of  electric cars will evolve
 
 # Summary for listings and search engines
-summary: electric cars are being chosen on mileage and acceleration
+summary: Products compete on features until the point when performance is so good that it becomes good enough for most customers and stops being a differentiating factor.
 
 # Link this post with a project
 projects: []
@@ -41,9 +41,8 @@ categories:
 
 ## Overview
 
-1. This is just a stupid test
+TBD
 
-## Get Started
+## Main Idea
 
-Let's not
-
+TBD
